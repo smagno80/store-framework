@@ -20,8 +20,8 @@
   "product-summary.shelf": {
     "children": [
       "product-summary-image",
-      "product-summary-add-to-list-button",
       "product-summary-name",
+      "product-summary-add-to-list-button",
       "product-rating-inline",
       "product-summary-space",
       "product-summary-price",
